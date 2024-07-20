@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Roshan and I'm a Frontend Developer, from Vaishali Ghaziabad</h2>
+<h2 align="left">Hi 👋! My name is Roshan..</h2>
 
 
 ###
